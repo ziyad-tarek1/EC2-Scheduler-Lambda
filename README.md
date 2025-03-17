@@ -21,8 +21,7 @@ ec2-scheduler-lambda/
 ├── README.md  # Project documentation
 ```
 
-# AWS EC2 Scheduler Using EventBridge and Lambda
-
+---
 ## Overview
 Managing AWS EC2 instances efficiently can lead to significant cost savings. This project automates the shutdown and startup of EC2 instances using AWS Lambda, EventBridge, and IAM roles. The solution ensures that EC2 instances are only running when needed, helping optimize costs.
 
