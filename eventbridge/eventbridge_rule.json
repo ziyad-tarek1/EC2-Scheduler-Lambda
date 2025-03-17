@@ -1,0 +1,10 @@
+{
+  "Name": "EC2-Auto-Start-Stop",
+  "ScheduleExpression": "cron(0 8 * * ? *)",
+  "Targets": [
+    {
+      "Id": "1",
+      "Arn": "arn:aws:lambda:region:account-id:function:LambdaFunctionName"
+    }
+  ]
+}
