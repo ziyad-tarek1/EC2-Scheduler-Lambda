@@ -6,7 +6,7 @@ The **AWS EC2 Scheduler** project provides a cost-effective solution for managin
 
 By implementing this serverless architecture, users can easily manage their EC2 instances based on specific tags, ensuring that resources are utilized efficiently without manual intervention. This repository contains all the necessary configurations, including Lambda function code, IAM policies, and EventBridge rules, to help you set up and deploy this automation in your AWS environment.
 
-![image](https://github.com/user-attachments/assets/0b8046b5-14a3-4609-95c0-e292eeeea7e9)
+![aws-scheduler](https://github.com/user-attachments/assets/1efd03cd-5464-4039-9ac5-8b5a2396efd9)
 
 
 ## Repository Structure
