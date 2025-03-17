@@ -10,7 +10,7 @@ By implementing this serverless architecture, users can easily manage their EC2 
 
 ## Repository Structure
 ```
-aws-ec2-scheduler/
+ec2-scheduler-lambda/
 ├── lambda_function/
 │   ├── lambda_function.py  # The Python script for the Lambda function
 ├── iam/
